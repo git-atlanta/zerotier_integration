@@ -1,0 +1,11 @@
+{
+  "domain": "zerotier",
+  "name": "ZeroTier Integration",
+  "documentation": "https://github.com/git-atlanta/zerotier_integration",
+  "issue_tracker": "https://github.com/git-atlanta/zerotier_integration/issues",
+  "dependencies": [],
+  "codeowners": ["@git-atlanta"],
+  "requirements": [],
+  "config_flow": true,
+  "version": "0.1.0"
+}
